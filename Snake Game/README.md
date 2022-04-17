@@ -1,7 +1,7 @@
 # *Snake Game*
 
 Snake game created with Python which has 3 additional modules and 3 additional classes: Food, Scoreboard and Snake.
-All of the mentioned classes inherit **Turtle** class from the import **turtle**.
+All of the mentioned classes inherit the **Turtle** class from the import **turtle**.
 *Food* contains the following method:
 1. **refresh** - changes the position of food once picked eaten by the snake
 
