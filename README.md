@@ -1,18 +1,8 @@
-# *Pong Game*
+# *Project repository*
 
-Pong game created with Python which has 3 additional modules and 3 additional classes: Paddle, Scoreboard and Ball.
-All of the mentioned classes inherit the **Turtle** class from the import **turtle**. Classes and their methods:
-### *Ball*
-1. **move** - moves the ball
-2. **bounce_y** - reverses the y axis of the ball and increases the movement speed of the ball
-3. **bounce_x** - reverses the x axis of the ball and increases the movement speed of the ball
-4. **reset_position** - resets the position of the ball and it's movement speed to the default value
+This repository is used for **intermediate and harder** projects that can be found on 100 Days of Code.
+It was made to share and document my journey learning Python, and also an easy way for myself and others to revisit different projects.
 
-### *Scoreboard*:
-1. **update_scoreboard** - updates the score
-2. **l_point** - increases the score for the player on the left side
-3. **r_point** - increases the score for the player on the right side
+Feel free to reach out and ask me any questions :)
 
-### *Paddle*:
-1. **go_up** - moves the paddle upward
-2. **go_down** - moves the paddle downward
+All rights go to the 100 Days of Code instructor Angela Yu.
