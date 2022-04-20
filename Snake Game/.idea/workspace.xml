@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="165d174d-0cf7-4c2a-826a-26b5016f5579" name="Changes" comment="Updating files">
-      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
-    </list>
+    <list default="true" id="165d174d-0cf7-4c2a-826a-26b5016f5579" name="Changes" comment="Updating files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650466526260</updated>
-      <workItem from="1650466527770" duration="2491000" />
+      <workItem from="1650466527770" duration="2880000" />
     </task>
     <task id="LOCAL-00001" summary="Updating files">
       <created>1650468700316</created>
@@ -128,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650468700316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updating files">
+      <created>1650469048491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650469048491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
