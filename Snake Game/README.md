@@ -2,7 +2,7 @@
 
 Snake game created with Python which has 3 additional modules and 3 additional classes: Food, Scoreboard and Snake.
 All of the mentioned classes inherit the **Turtle** class from the import **turtle**.
-The game also keeps track of the highest score and saves it into the **data.txt** file.
+The game also keeps track of the highest score and saves it into the **data.txt** file.  
 *Food* contains the following method:
 1. **refresh** - changes the position of food once picked eaten by the snake
 
