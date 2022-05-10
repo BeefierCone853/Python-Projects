@@ -15,4 +15,4 @@ It has the following functions :
 ### *search*:
 - searches for the e-mail and password for the entered website
 - called when the **"Search"** button is clicked
-- if the the entered website cannot be found or there is no json file an error is raised
+- if the entered website cannot be found or there is no json file an error is raised
