@@ -1,7 +1,8 @@
 # *Password Generator*
 
-Python project which generates and saves passwords. When the password is created it is automatically copied to the
-clipboard. The project was created using **tkinter**, **random**, **pyperclip** and **json** imports. 
+Python project which generates and saves passwords. It also has the functionality to search for the data of an entered 
+website (displays e-mail and password). When the password is created it is automatically copied to the clipboard. 
+The project was created using **tkinter**, **random**, **pyperclip** and **json** imports. 
 It has the following functions :  
 ### *generate_password*
 - generates a password which is a combination of letters, symbols and numbers
