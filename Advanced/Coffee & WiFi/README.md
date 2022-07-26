@@ -10,5 +10,5 @@ Form validation was achieved using the **wtforms.validators**.
 
 ### *Flask* - backend part of the project
 ### *Bootstrap* - positioning and styling
-### *WTForms* - Simple way to add forms to your webpage
+### *WTForms* - simple way to add forms to your webpage
 ### *CSV* - contains all the cafes data
