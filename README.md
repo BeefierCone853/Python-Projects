@@ -3,9 +3,11 @@
 The webpage is created using *Flask*. All of the modules that are needed for this project to work are listed in the
 **requirements.txt** file.  All of the HTML files are stored in the templates folder. 
 CSS and various other files i.e. images are stored in the static folder.
-Users and blog data (content, comments etc.) is stored into a database **blog.db**. 
+If the program is ran locally, users and blog data (content, comments etc.) are stored into a database **blog.db**.
+The webpage is also hosted on "https://personal-blog-erik.herokuapp.com/" and uses **Heroku Postgres** database.
 Forms are created using the *forms* module.
 
 ### *Flask* - backend
 ### *Bootstrap* - positioning and styling
-### *SQLAlchemy* - database
+### *SQLAlchemy* - local database
+### *Heroku Postgres* - hosted database
