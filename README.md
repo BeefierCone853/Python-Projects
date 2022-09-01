@@ -7,6 +7,9 @@ If the program is ran locally, users and blog data (content, comments etc.) are 
 The webpage is also hosted on "https://personal-blog-erik.herokuapp.com/" and uses **Heroku Postgres** database.
 Forms are created using the *forms* module.
 
+By being the first person to register you can create posts. Since this is a personal blog, every person who registers
+after that can only comment on posts.
+
 ### *Flask* - backend
 ### *Bootstrap* - positioning and styling
 ### *SQLAlchemy* - local database
