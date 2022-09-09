@@ -24,7 +24,6 @@ def game_over(board):
     o_positions = []
     end_of_game = False
 
-    index_positions = []
     position_number = 0
     for char_ in board:
         if char_ == 'O':
