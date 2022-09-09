@@ -1,5 +1,3 @@
-import os
-
 end_game = False
 number_of_turns = 0
 number = 0
