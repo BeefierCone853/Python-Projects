@@ -12,10 +12,18 @@ winning_combinations = {1: [1, 5, 9],
                         8: [9, 30, 51]}
 
 # Marked board to represent places on the board with numbers (reference for players)
-marked_board = " 1 | 2 | 3 \n------------\n 4 | 5 | 6 \n------------\n 7 | 8 | 9 \n"
+marked_board = " 1 | 2 | 3 \n" \
+               "------------\n" \
+               " 4 | 5 | 6 \n" \
+               "------------\n" \
+               " 7 | 8 | 9 \n"
 
 # The actual board on which Xs and Os are placed (whitespace is replaced with 'X' or 'O')
-game_board = "   |   |   \n------------\n   |   |   \n------------\n   |   |   "
+game_board = "   |   |   \n" \
+             "------------\n" \
+             "   |   |   \n" \
+             "------------\n" \
+             "   |   |   "
 
 
 # Check if game is over after every turn
