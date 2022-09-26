@@ -117,7 +117,7 @@ while end_game is False:
 
                 # Check if game is over
                 end_game = game_over(game_board)
-                if number_of_turns == 8:
+                if number_of_turns == 9 and end_game is False:
                     print(50 * '\n')
                     print("It's a draw!")
                     print(game_board)
